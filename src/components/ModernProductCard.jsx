@@ -1,8 +1,5 @@
 import  { useState } from "react";
-import { useDispatch } from "react-redux";
-import { addCart } from "../redux/action";
-import toast from "react-hot-toast";
-import { ShoppingCart, Heart, Star, Package, Eye } from 'lucide-react';
+import { ShoppingCart, Heart, Star, Eye } from 'lucide-react';
 import { Link } from "react-router-dom";
 
 
